@@ -1,0 +1,6 @@
+{
+  "name": "دوريسيو",
+  "description": "دوريكم... بشكل حقيقي - تطبيق إدارة وتنظيم دوريات كرة القدم مع مركز المباريات المباشر والإحصائيات والجوائز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
